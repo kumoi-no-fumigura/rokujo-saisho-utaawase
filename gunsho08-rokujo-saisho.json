@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujo-saisho-utaawase",
  "yomi": "ろくじょうさいしょうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "永久4年（1116）6月4日",
+  "author": "主催・判者 藤原顕季",
+  "desc": "六条宰相藤原顕季の家で催された歌合。俊頼・仲実・顕輔・道経らが子日・恋などの題で詠み、主の顕季みずから判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
